@@ -76,6 +76,6 @@
   <li>гіперпосилання </li>
   <li>картинки </li>
     <br>
-  <p> Документація з використання Git розміщена за <a href="https://docs.google.com/document/d/1ZORK2VQu9_BK-XebQ9fhZiywF0c_btD6wcsddDJmbYA/edit">посиланням</a>.</p>
+  <p> Документація з використання Git розміщена за <a href="https://codepen.io/pen?template=KKJmaKp">посиланням</a>.</p>
   <p>Виконав: <span class="bold">Sychenko Valerii </span></p>
 </body>
