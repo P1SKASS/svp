@@ -77,5 +77,5 @@
   <li>картинки </li>
     <br>
   <p> Документація з використання Git розміщена за <a href="https://codepen.io/pen?template=KKJmaKp">посиланням</a>.</p>
-  <p>Виконав: <span class="bold">Sychenko Valerii </span></p>
+  <p>Виконав: <span class="bold">Sychenko Valerii </span> Email - sychenko11@gmail.com / vt232_svp@ztu.edu.ua</p>
 </body>
